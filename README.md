@@ -335,5 +335,3 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 *Feel free to reach out if you have any questions or suggestions!*
 
 ---
-
-**Note**: Replace placeholders like `yourusername`, `your.email@example.com`, and paths to screenshots with your actual information.
