@@ -139,7 +139,7 @@ cd realtime-data-processing-system
 
   ```properties
   # Database Configuration
-  spring.datasource.url=jdbc:postgresql://localhost:5432/your_postgres_databse
+  spring.datasource.url=jdbc:postgresql://localhost:5432/your_postgres_database
   spring.datasource.username=your_postgres_username
   spring.datasource.password=your_postgres_password
 
